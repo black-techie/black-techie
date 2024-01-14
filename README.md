@@ -17,8 +17,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]
+- 📝 &nbsp; Checkout my [resume]
 - 📚 &nbsp; When I am free, I watch adventure and scifi movies. Checkout my [Goodreads]  to see the movies I have watched
 
 <br>
