@@ -22,6 +22,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I watch adventure and scifi movies. Checkout my [Goodreads]  to see the movies I have watched
 
 <br>
+<br>
+<br>
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
